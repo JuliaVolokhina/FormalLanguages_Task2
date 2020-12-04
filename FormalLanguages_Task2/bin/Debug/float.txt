@@ -106,5 +106,6 @@
 	],
 	"currentState": 0,
 	"start": 1,
-	"stop": [3, 4, 5, 7] 
+	"stop": [3, 4, 5, 7],
+	"order": 1  
 }

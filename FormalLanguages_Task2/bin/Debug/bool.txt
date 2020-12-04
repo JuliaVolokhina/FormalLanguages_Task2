@@ -12,5 +12,6 @@
 	],
 	"currentState": 0,
 	"start": 1,
-	"stop": [5, 10]
+	"stop": [5, 10],
+	"order": 3 
 }

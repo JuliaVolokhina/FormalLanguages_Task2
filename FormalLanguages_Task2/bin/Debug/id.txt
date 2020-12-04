@@ -117,5 +117,6 @@
 	],
 	"currentState": 0,
 	"start": 1,
-	"stop": [2]
+	"stop": [2],
+	"order": 2  
 }

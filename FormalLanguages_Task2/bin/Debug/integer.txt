@@ -32,5 +32,6 @@
 	],
 	"currentState": 0,
 	"start": 1,
-	"stop": [3] 
+	"stop": [3],
+	"order": 1  
 }
