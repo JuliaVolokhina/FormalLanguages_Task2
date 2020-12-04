@@ -1,0 +1,10 @@
+C:\Users\Yuliya\Desktop\FormalLanguages_Task2\FormalLanguages_Task2\bin\Debug\FormalLanguages_Task2.exe.config
+C:\Users\Yuliya\Desktop\FormalLanguages_Task2\FormalLanguages_Task2\bin\Debug\FormalLanguages_Task2.exe
+C:\Users\Yuliya\Desktop\FormalLanguages_Task2\FormalLanguages_Task2\bin\Debug\FormalLanguages_Task2.pdb
+C:\Users\Yuliya\Desktop\FormalLanguages_Task2\FormalLanguages_Task2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Yuliya\Desktop\FormalLanguages_Task2\FormalLanguages_Task2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Yuliya\Desktop\FormalLanguages_Task2\FormalLanguages_Task2\obj\Debug\FormalLanguages_Task2.csprojAssemblyReference.cache
+C:\Users\Yuliya\Desktop\FormalLanguages_Task2\FormalLanguages_Task2\obj\Debug\FormalLanguages_Task2.csproj.CoreCompileInputs.cache
+C:\Users\Yuliya\Desktop\FormalLanguages_Task2\FormalLanguages_Task2\obj\Debug\FormalLanguages_Task2.csproj.CopyComplete
+C:\Users\Yuliya\Desktop\FormalLanguages_Task2\FormalLanguages_Task2\obj\Debug\FormalLanguages_Task2.exe
+C:\Users\Yuliya\Desktop\FormalLanguages_Task2\FormalLanguages_Task2\obj\Debug\FormalLanguages_Task2.pdb

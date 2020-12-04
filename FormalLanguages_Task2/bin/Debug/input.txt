@@ -1,0 +1,12 @@
+int a = 350;
+float b = 64.67;
+bool flag = true;
+
+if (a > b){
+	while (a > b){
+		b = b - a;
+	}
+}
+else{
+	flag = false;
+}
